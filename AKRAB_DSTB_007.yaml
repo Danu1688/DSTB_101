@@ -64,7 +64,7 @@ proxies:
     path: "/trojanws"
     headers:
       Host: sg-ctn.sshpremium.my.id
-- name: danuWs07
+- name: danuWs07a
   type: trojan
   server: 172.67.199.34
   port: 443
