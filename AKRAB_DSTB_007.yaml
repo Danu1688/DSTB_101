@@ -1,5 +1,5 @@
 proxies:
-- name: danuWs07-IP34
+- name: danuWs07-IP34a
   type: trojan
   server: 172.67.199.34
   port: 443
