@@ -90,7 +90,6 @@ proxies:
     path: /trojan
     headers:
       Host: id3.myserver-prem.xyz
-
 - name: SvrNusa51_Live_IP1
   type: trojan
   server: 104.17.224.203
